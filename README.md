@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors---JavaScript
-exercise
+simple exercise
 
-localStorage
-JSON
+localStorage <br>
+JSON <br>
 document.querySelector
